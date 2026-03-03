@@ -1,0 +1,10 @@
+- gemütlich lockern
+- Auf einem Bein stehen, Fuß in die Hand nehmen und Diagonaler Knieschlag
+- Diagonaler Knieschlag ohne hand am Fuß
+- Ein Bein Knie vorne hochziehen, den hinten. Nach ein paar Wiederholungen Bein Strecken und hochziehen
+- Tief in die Knie und hochspringen. Hin und wieder unten bleiben und wippen
+- nach vorne beugen und Arme auf und ab
+- Schwebesitz Twists
+- Schwebesitz Beine vor und zurück
+- Plank Füße seitlich raus
+- Plank auf Händen Hände nach vorne raus

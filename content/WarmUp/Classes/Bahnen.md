@@ -1,0 +1,10 @@
+- mit beiden beinen hüpfen
+- mit einem Bein hüpfen
+- Sci Fahrer
+- laufen mit Faußstsößen
+- Schrimpen
+- Liegestützposition und hüpfen
+- Auf hintern Beine hoch und nach vorne
+- Rollen ohne Hände vorwärts u. rückwärts
+- Kopfstand und abrollen
+- Rad
