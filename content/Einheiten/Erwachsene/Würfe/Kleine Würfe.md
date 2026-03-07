@@ -1,5 +1,5 @@
 ## Warmup
-[[Legs]] [[2 Areas/Sport/Ju-Jutsu Breitensport/WarmUp/Classes/Würfe/Nr. 1]]
+[[Legs]] [[2 Areas/Sport/Ju-Jutsu Breitensport/WarmUp/Classes/Würfe/Nr. 1|Nr. 1]]
 
 - gemütlich lockern
 - Auf einem Bein stehen, Fuß in die Hand nehmen und Diagonaler Knieschlag
@@ -31,8 +31,7 @@ https://www.youtube.com/watch?v=EE4-Tvsl3PI
 #### Abschluss
 ![[Pasted image 20260203190215.png|200]]![[Pasted image 20260203190236.png|200]]
 
-
-
-
-
 ![[Pasted image 20260203192546.png|200]] ![[Pasted image 20260203192613.png|200]] 
+
+# Quellen & Links
+https://www.youtube.com/watch?v=EE4-Tvsl3PI

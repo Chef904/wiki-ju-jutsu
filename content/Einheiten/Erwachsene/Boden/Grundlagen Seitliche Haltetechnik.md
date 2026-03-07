@@ -1,5 +1,5 @@
 
-[[Seitliche Haltetechnik (Kesa-gatame)]]
+[[Seitliche Haltetechnik]]
 # Warm Up
 - Ball hin und her werfen
 - Bahnen
@@ -35,10 +35,12 @@
 - nicht zu viel mit dem fixierten arm arbeiten
 - Handgelenk nicht rumfuchteln
 - Ellenbogne zu Hüfte von Partner
+
   ![[Pasted image 20260225185216.png|300]] 
 
 #### Variante 1
 - Stirn auf Matte und Beine switchen
+
   ![[Pasted image 20260225185449.png|300]] ![[Pasted image 20260225185823.png|300]]
   ![[Pasted image 20260225185844.png|300]]
 
@@ -53,5 +55,9 @@
 #### Variante 4
 - unter Hüfte kommen
 - Partner Kopf richtung Boden mithilfe einer Brücke
+
 ![[Pasted image 20260225191502.png|300]] ![[Pasted image 20260225191546.png|300]]
 
+# Quellen & Links
+https://www.youtube.com/watch?v=G0Xf_CJzE6M  
+https://www.youtube.com/watch?v=bHneNFyONwo  

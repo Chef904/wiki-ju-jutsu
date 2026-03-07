@@ -21,6 +21,7 @@
 - Große Außensichel (o-soto-gari)
 	- jeder mit Partner
 - Beinstellen u. Große Außensichel(o-uchi-gari) zu dritt Partner hält fest
+
 ![[Pasted image 20260211213944.png|300]]
 
 - Talfallzug
