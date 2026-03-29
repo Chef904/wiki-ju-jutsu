@@ -73,7 +73,9 @@ article {
 
 a.internal {
   border-radius: 4px;
-  transition: background-color 0.15s ease, color 0.15s ease;
+  transition:
+    background-color 0.15s ease,
+    color 0.15s ease;
 
   &:hover {
     background-color: color-mix(in srgb, var(--secondary) 15%, transparent);
@@ -152,7 +154,9 @@ hr {
   background-color: var(--highlight);
   border: 1px solid color-mix(in srgb, var(--secondary) 25%, transparent);
   color: var(--secondary);
-  transition: background-color 0.15s ease, border-color 0.15s ease;
+  transition:
+    background-color 0.15s ease,
+    border-color 0.15s ease;
 
   &:hover {
     background-color: color-mix(in srgb, var(--secondary) 15%, transparent);
@@ -182,7 +186,9 @@ hr {
 
   li > a {
     border-radius: 6px;
-    transition: background-color 0.15s ease, color 0.15s ease;
+    transition:
+      background-color 0.15s ease,
+      color 0.15s ease;
 
     &:hover {
       background-color: var(--highlight);
@@ -216,7 +222,9 @@ hr {
 #search-bar {
   border-radius: 8px;
   border: 1.5px solid var(--lightgray);
-  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  transition:
+    border-color 0.15s ease,
+    box-shadow 0.15s ease;
 
   &:focus {
     border-color: var(--secondary);
@@ -228,7 +236,9 @@ hr {
 #search-container > .search-button {
   border-radius: 8px;
   border: 1.5px solid var(--lightgray);
-  transition: border-color 0.15s ease, background-color 0.15s ease;
+  transition:
+    border-color 0.15s ease,
+    background-color 0.15s ease;
   gap: 0.5rem;
   font-size: 0.875rem;
   color: var(--gray);

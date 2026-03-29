@@ -1,7 +1,7 @@
-
 ### Warmup
 
 Bahnen:
+
 - Vor laufen 5 Fauststöße
 - vorlaufen 5 kicks
 - Sternchen
@@ -11,4 +11,3 @@ Bahnen:
 - mit Häusschen bauen mit Balance pad
 - Vor laufen 5 Fauststöße
 - vorlaufen 5 kicks
-
