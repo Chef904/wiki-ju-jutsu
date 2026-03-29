@@ -1,3 +1,258 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ─── Modern Design Enhancements ───────────────────────────────────────────────
+
+// Smoother global transitions
+* {
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+// Better body rendering
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.01em;
+}
+
+// ─── Sidebar ──────────────────────────────────────────────────────────────────
+
+.sidebar.left {
+  border-right: 1px solid var(--lightgray);
+  background-color: var(--light);
+  padding-top: 2rem;
+
+  @media (max-width: 800px) {
+    border-right: none;
+    border-bottom: 1px solid var(--lightgray);
+  }
+}
+
+.sidebar.right {
+  border-left: 1px solid var(--lightgray);
+
+  @media (max-width: 1200px) {
+    border-left: none;
+  }
+}
+
+// ─── Page Title ───────────────────────────────────────────────────────────────
+
+.page-title {
+  font-size: 1.1rem !important;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+// ─── Article ──────────────────────────────────────────────────────────────────
+
+article {
+  > h1 {
+    font-size: 2rem !important;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1.2;
+  }
+
+  h2 {
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+
+  h3 {
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+
+  // Improved line height for readability
+  p {
+    line-height: 1.75rem;
+  }
+}
+
+// ─── Links ────────────────────────────────────────────────────────────────────
+
+a.internal {
+  border-radius: 4px;
+  transition: background-color 0.15s ease, color 0.15s ease;
+
+  &:hover {
+    background-color: color-mix(in srgb, var(--secondary) 15%, transparent);
+  }
+}
+
+// ─── Blockquotes ──────────────────────────────────────────────────────────────
+
+blockquote {
+  border-left: 3px solid var(--secondary);
+  background-color: var(--highlight);
+  border-radius: 0 8px 8px 0;
+  padding: 0.75rem 1rem;
+  margin: 1.25rem 0;
+}
+
+// ─── Code blocks ──────────────────────────────────────────────────────────────
+
+pre {
+  border-radius: 10px;
+  border: 1px solid var(--lightgray);
+}
+
+code {
+  border-radius: 6px;
+  font-size: 0.875em;
+}
+
+// ─── Tables ───────────────────────────────────────────────────────────────────
+
+.table-container > table {
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--lightgray);
+  margin: 1rem 0;
+
+  th {
+    background-color: var(--lightgray);
+    font-weight: 600;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--darkgray);
+  }
+
+  tr:hover td {
+    background-color: var(--highlight);
+    transition: background-color 0.15s ease;
+  }
+}
+
+// ─── Images ───────────────────────────────────────────────────────────────────
+
+img {
+  border-radius: 10px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+// ─── Horizontal rules ─────────────────────────────────────────────────────────
+
+hr {
+  background: linear-gradient(to right, transparent, var(--lightgray), transparent);
+  height: 1px;
+  border: none;
+}
+
+// ─── Tags ─────────────────────────────────────────────────────────────────────
+
+.tags > li > a.tag-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  background-color: var(--highlight);
+  border: 1px solid color-mix(in srgb, var(--secondary) 25%, transparent);
+  color: var(--secondary);
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+
+  &:hover {
+    background-color: color-mix(in srgb, var(--secondary) 15%, transparent);
+    border-color: var(--secondary);
+  }
+}
+
+// ─── Explorer ─────────────────────────────────────────────────────────────────
+
+.explorer {
+  .explorer-title {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--gray);
+  }
+
+  button.folder-button {
+    border-radius: 6px;
+    transition: background-color 0.15s ease;
+
+    &:hover {
+      background-color: var(--highlight);
+    }
+  }
+
+  li > a {
+    border-radius: 6px;
+    transition: background-color 0.15s ease, color 0.15s ease;
+
+    &:hover {
+      background-color: var(--highlight);
+      color: var(--secondary);
+    }
+  }
+}
+
+// ─── Backlinks & Graph titles ─────────────────────────────────────────────────
+
+.backlinks > h3,
+.graph > h3,
+.toc > h3 {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--gray);
+}
+
+// ─── Navigation progress bar ─────────────────────────────────────────────────
+
+.navigation-progress {
+  height: 2px;
+  background: linear-gradient(to right, var(--secondary), var(--tertiary));
+  border-radius: 0 2px 2px 0;
+}
+
+// ─── Search ───────────────────────────────────────────────────────────────────
+
+#search-bar {
+  border-radius: 8px;
+  border: 1.5px solid var(--lightgray);
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+
+  &:focus {
+    border-color: var(--secondary);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--secondary) 15%, transparent);
+    outline: none;
+  }
+}
+
+#search-container > .search-button {
+  border-radius: 8px;
+  border: 1.5px solid var(--lightgray);
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  color: var(--gray);
+
+  &:hover {
+    border-color: var(--secondary);
+    background-color: var(--highlight);
+  }
+}
+
+// ─── Callouts ────────────────────────────────────────────────────────────────
+
+.callout {
+  border-radius: 10px;
+  border-width: 1px;
+  border-style: solid;
+  overflow: hidden;
+}
+
+// ─── Footer ───────────────────────────────────────────────────────────────────
+
+footer {
+  border-top: 1px solid var(--lightgray);
+  font-size: 0.85rem;
+  color: var(--gray);
+  padding-top: 1rem;
+}

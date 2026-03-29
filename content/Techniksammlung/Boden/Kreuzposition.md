@@ -59,10 +59,7 @@ Diese Befreiung eignet sich eher, wenn der Partner mit dem Gewicht weiter oben l
 ![[Pasted image 20260301170835.png|300]] ![[Pasted image 20260301170927.png|300]] ![[Pasted image 20260301174903.png|300]]
 
 
-
-
-![[Pasted image 20260301172615.png|300]] ![[Pasted image 20260301172641.png|300]]
-![[Pasted image 20260301172738.png|300]] ![[Pasted image 20260301172757.png|300]] ![[Pasted image 20260301172828.png|300]] ![[Pasted image 20260301172853.png|300]]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6F_EnGJuQOg?si=UIScizD8Kf4B-Qi3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Befreiung 2
 Diese Befreiung eignet sich eher, wenn der Partner weiter unten liegt
