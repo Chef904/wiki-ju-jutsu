@@ -12,6 +12,6 @@ mit längerer erholsamer Pause
 - swimmer
 
 Zusätzliche Übungen für zwischendurch
+
 - Einbeinig auf Fußballen auf und ab
 - Knie seitlich hoch
-
